@@ -1,0 +1,17 @@
+%%
+%% Template conclusion.tex
+%%
+
+\chapter{Conclusion}
+\label{cha:conclusion}
+In this paper, we suggested a weakly supervised learning approach for basic road scene understanding that excels both in theory and practice. This approach consist of 1) pre-training using convolutional auto-encoders, 2) training using convolutional neural networks initialized by pre-training result, 3) predicting using super-pixel labeling.
+
+We also explored the merits and flaws of various techniques of the same purpose. We compared two image segmentation algorithms and several available implementations, investigated unsupervised learning methods convolutional auto-encoders and principal component analysis from different perspectives, and evaluated the pros and cons of Markov random fields for graph denoising.
+
+Moreover, we analyzed the computational complexity of our approach, showed that the inference running time is linear with respect to the size of input data. A software system was built accordingly for basic road scene understanding tasks, and tested on both generated and manually annotated labels, which gave an accuracy of $89.51\%$ in the best case. In addition, we developed an open source library for convolutional auto-encoders using Matlab and validated its mathematical correctness.
+
+By using a weakly supervised approach based on convolutional neural networks, we avoided the disadvantages of handcrafted features. More importantly, we proposed and compared different methods for improving the efficiency and effectiveness of such approach. Our approach provides a tractable running time and good generalizability, which is desirable for real word applications such as autonomous driving systems.
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: "thesis"
+%%% End: 

@@ -1,0 +1,164 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{Achanta, Shaji, Smith, Lucchi, Fua, and
+  Susstrunk}{Achanta et~al.}{2012}]{achanta2012slic}
+\bibsc{Achanta, R., Shaji, A., Smith, K., Lucchi, A., Fua, P., and Susstrunk,
+  S.} \bibyear{2012}.
+\newblock Slic superpixels compared to state-of-the-art superpixel methods.
+\newblock \bibemphic{Pattern Analysis and Machine Intelligence, IEEE
+  Transactions on}~\bibemph{34},~11, 2274--2282.
+\citepages{achanta2012slic}
+
+\bibitem[\protect\citeauthoryear{Alvarez, Gevers, LeCun, and Lopez}{Alvarez
+  et~al.}{2012}]{alvarez2012road}
+\bibsc{Alvarez, J.~M., Gevers, T., LeCun, Y., and Lopez, A.~M.} \bibyear{2012}.
+\newblock Road scene segmentation from a single image.
+\newblock In \bibemphic{Computer Vision--ECCV 2012}, pp.\  376--389. Springer.
+\citepages{alvarez2012road}
+
+\bibitem[\protect\citeauthoryear{Alvarez, LeCun, Gevers, and Lopez}{Alvarez
+  et~al.}{2012}]{alvarez2012semantic}
+\bibsc{Alvarez, J.~M., LeCun, Y., Gevers, T., and Lopez, A.~M.} \bibyear{2012}.
+\newblock Semantic road segmentation via multi-scale ensembles of learned
+  features.
+\newblock In \bibemphic{Computer Vision--ECCV 2012. Workshops and
+  Demonstrations} (2012), pp.\  586--595. Springer.
+\citepages{alvarez2012semantic}
+
+\bibitem[\protect\citeauthoryear{{\'A}lvarez, L{\'o}pez, Gevers, and
+  Lumbreras}{{\'A}lvarez et~al.}{2014}]{alvarez2014combining}
+\bibsc{{\'A}lvarez, J.~M., L{\'o}pez, A.~M., Gevers, T., and Lumbreras, F.}
+  \bibyear{2014}.
+\newblock Combining priors, appearance, and context for road detection.
+\newblock \bibemphic{IEEE Transactions on Intelligent Transportation
+  Systems}~\bibemph{15},~3, 1168--1178.
+\citepages{alvarez2014combining}
+
+\bibitem[\protect\citeauthoryear{Bengio}{Bengio}{2009}]{bengio2009learning}
+\bibsc{Bengio, Y.} \bibyear{2009}.
+\newblock Learning deep architectures for ai.
+\newblock \bibemphic{Foundations and trends{\textregistered} in Machine
+  Learning}~\bibemph{2},~1, 1--127.
+\citepages{bengio2009learning}
+
+\bibitem[\protect\citeauthoryear{Bishop et~al.}{Bishop
+  et~al.}{2006}]{bishop2006pattern}
+\bibsc{Bishop, C.~M. et~al.} \bibyear{2006}.
+\newblock \bibemph{Pattern recognition and machine learning}, Volume~4.
+\newblock springer New York.
+\citepages{bishop2006pattern}
+
+\bibitem[\protect\citeauthoryear{Felzenszwalb and Huttenlocher}{Felzenszwalb
+  and Huttenlocher}{2004}]{felzenszwalb2004efficient}
+\bibsc{Felzenszwalb, P.~F. and Huttenlocher, D.~P.} \bibyear{2004}.
+\newblock Efficient graph-based image segmentation.
+\newblock \bibemphic{International Journal of Computer Vision}~\bibemph{59},~2,
+  167--181.
+\citepages{felzenszwalb2004efficient}
+
+\bibitem[\protect\citeauthoryear{Geiger, Lenz, Stiller, and Urtasun}{Geiger
+  et~al.}{2013}]{Geiger2013IJRR}
+\bibsc{Geiger, A., Lenz, P., Stiller, C., and Urtasun, R.} \bibyear{2013}.
+\newblock Vision meets robotics: The kitti dataset.
+\newblock \bibemphic{International Journal of Robotics Research (IJRR)}.
+\citepages{Geiger2013IJRR}
+
+\bibitem[\protect\citeauthoryear{Geladi and Kowalski}{Geladi and
+  Kowalski}{1986}]{geladi1986partial}
+\bibsc{Geladi, P. and Kowalski, B.~R.} \bibyear{1986}.
+\newblock Partial least-squares regression: a tutorial.
+\newblock \bibemphic{Analytica chimica acta}~\bibemph{185}, 1--17.
+\citepages{geladi1986partial}
+
+\bibitem[\protect\citeauthoryear{Hinton and Salakhutdinov}{Hinton and
+  Salakhutdinov}{2006}]{hinton2006reducing}
+\bibsc{Hinton, G.~E. and Salakhutdinov, R.~R.} \bibyear{2006}.
+\newblock Reducing the dimensionality of data with neural networks.
+\newblock \bibemphic{Science}~\bibemph{313},~5786, 504--507.
+\citepages{hinton2006reducing}
+
+\bibitem[\protect\citeauthoryear{Hoiem, Efros, and Hebert}{Hoiem
+  et~al.}{2005}]{hoiem2005automatic}
+\bibsc{Hoiem, D., Efros, A.~A., and Hebert, M.} \bibyear{2005}.
+\newblock Automatic photo pop-up.
+\newblock \bibemphic{ACM Transactions on Graphics (TOG)}~\bibemph{24},~3,
+  577--584.
+\citepages{hoiem2005automatic}
+
+\bibitem[\protect\citeauthoryear{Hornik, Stinchcombe, and White}{Hornik
+  et~al.}{1989}]{hornik1989multilayer}
+\bibsc{Hornik, K., Stinchcombe, M., and White, H.} \bibyear{1989}.
+\newblock Multilayer feedforward networks are universal approximators.
+\newblock \bibemphic{Neural networks}~\bibemph{2},~5, 359--366.
+\citepages{hornik1989multilayer}
+
+\bibitem[\protect\citeauthoryear{Kittler and F{\"o}glein}{Kittler and
+  F{\"o}glein}{1984}]{kittler1984contextual}
+\bibsc{Kittler, J. and F{\"o}glein, J.} \bibyear{1984}.
+\newblock Contextual classification of multispectral pixel data.
+\newblock \bibemphic{Image and Vision Computing}~\bibemph{2},~1, 13--29.
+\citepages{kittler1984contextual}
+
+\bibitem[\protect\citeauthoryear{LeCun and Bengio}{LeCun and
+  Bengio}{1995}]{lecun1995convolutional}
+\bibsc{LeCun, Y. and Bengio, Y.} \bibyear{1995}.
+\newblock Convolutional networks for images, speech, and time series.
+\newblock \bibemphic{The handbook of brain theory and neural
+  networks}~\bibemph{3361}, 310.
+\citepages{lecun1995convolutional}
+
+\bibitem[\protect\citeauthoryear{Lemme, Reinhart, and Steil}{Lemme
+  et~al.}{2010}]{lemme2010efficient}
+\bibsc{Lemme, A., Reinhart, R.~F., and Steil, J.~J.} \bibyear{2010}.
+\newblock Efficient online learning of a non-negative sparse autoencoder.
+\newblock In \bibemphic{ESANN} (2010). Citeseer.
+\citepages{lemme2010efficient}
+
+\bibitem[\protect\citeauthoryear{Lowe}{Lowe}{1999}]{lowe1999object}
+\bibsc{Lowe, D.~G.} \bibyear{1999}.
+\newblock Object recognition from local scale-invariant features.
+\newblock In \bibemphic{Computer vision, 1999. The proceedings of the seventh
+  IEEE international conference on}, Volume~2 (1999), pp.\  1150--1157. Ieee.
+\citepages{lowe1999object}
+
+\bibitem[\protect\citeauthoryear{Masci, Meier, Cire{\c{s}}an, and
+  Schmidhuber}{Masci et~al.}{2011}]{masci2011stacked}
+\bibsc{Masci, J., Meier, U., Cire{\c{s}}an, D., and Schmidhuber, J.}
+  \bibyear{2011}.
+\newblock Stacked convolutional auto-encoders for hierarchical feature
+  extraction.
+\newblock In \bibemphic{Artificial Neural Networks and Machine Learning--ICANN
+  2011}, pp.\  52--59. Springer.
+\citepages{masci2011stacked}
+
+\bibitem[\protect\citeauthoryear{Palm}{Palm}{2012}]{IMM2012-06284}
+\bibsc{Palm, R.~B.} \bibyear{2012}.
+\newblock Prediction as a candidate for learning deep hierarchical models of
+  data.
+\newblock Master's thesis.
+\citepages{IMM2012-06284}
+
+\bibitem[\protect\citeauthoryear{Rumelhart, Hinton, and Williams}{Rumelhart
+  et~al.}{1985}]{rumelhart1985learning}
+\bibsc{Rumelhart, D.~E., Hinton, G.~E., and Williams, R.~J.} \bibyear{1985}.
+\newblock Learning internal representations by error propagation.
+\newblock Technical report, DTIC Document.
+\citepages{rumelhart1985learning}
+
+\bibitem[\protect\citeauthoryear{Szeliski}{Szeliski}{2010}]{szeliski2010comput%
+er}
+\bibsc{Szeliski, R.} \bibyear{2010}.
+\newblock \bibemph{Computer vision: algorithms and applications}.
+\newblock Springer Science \& Business Media.
+\citepages{szeliski2010computer}
+
+\bibitem[\protect\citeauthoryear{Vincent, Larochelle, Bengio, and
+  Manzagol}{Vincent et~al.}{2008}]{vincent2008extracting}
+\bibsc{Vincent, P., Larochelle, H., Bengio, Y., and Manzagol, P.-A.}
+  \bibyear{2008}.
+\newblock Extracting and composing robust features with denoising autoencoders.
+\newblock In \bibemphic{Proceedings of the 25th international conference on
+  Machine learning} (2008), pp.\  1096--1103. ACM.
+\citepages{vincent2008extracting}
+
+\end{thebibliography}

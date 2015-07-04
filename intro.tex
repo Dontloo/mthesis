@@ -1,0 +1,42 @@
+%%
+%% Template intro.tex
+%%
+
+\chapter{Introduction}
+\label{cha:intro}
+In this chapter, we began with describing the motivations of our study and related challenges. Then, we discussed the strengths and limitations of related works. Thereafter we defined our objectives and listed our major contributions.
+
+\section{Motivations}
+\label{sec:Motivations}
+Road scene understanding is an important and challenging research topic in computer vision. Accurate detection of free road surfaces from images and videos is essential to many applications including autonomous driving and driver assistance systems.
+
+Difficulties of vision-based road scene understanding arise from many aspects. For instance, pedestrians and vehicles with unknown movements on the road may increase the uncertainty of our judgment. Varying illumination conditions can cause varying degrees of contrast, brightness, reflection and shades. Disadvantageous weather conditions (e.g., rain, snow and fog) will affect camera lens and distort the image and video obtained. Though numerous methods have been studied to overcome these difficulties, there is still room for improvement.
+
+\section{Related Work}
+\label{sec:Related Work}
+
+\subsection{Handcrafted features}
+\label{sec:Handcrafted features}
+Existing road detection methods highly involve handcrafted features. In addition to low level features (e.g., color, texture, coordinates and SIFT~\cite{lowe1999object}), high level features including shapes, lines, intersection points and road geometry are also shown to be beneficial to producing good results~\cite{alvarez2014combining}.
+
+Although the effectiveness of such methods has been testified across various data sets, they have noticeable drawbacks constraining their applicability in real world scenarios. High-level features often depend on shapes of artificial objects (e.g., lines and intersection points). Although they work well in situations where the roads are well structured, such as freeways and cities, but they are prone to be ineffective in other situations where the outlines of roads are not obvious (e.g., blocked by pedestrian), or are obscured by other factors (e.g., weather and illumination). Algorithms for computing high-level features are not universally applicable, and are often subject to high computational cost.  
+
+Moreover, some handcrafted features are based on prior assumptions of the input images. For example, the location of the road should be in the bottom area of an image, which is likely to be true in most cases but does not possess generality.
+
+\subsection{Learned features}
+\label{sec:Learned features}
+To address the issue of handcrafted features, algorithms based on convolutional neural networks are introduced to various computer vision tasks~\cite{alvarez2012road}~\cite{alvarez2012semantic}. Convolutional neural networks are able to discover local, translation invariant and higher order features automatically from training data, and are shown to be the state-of-the-art in many applications.
+
+The training of a convolutional neural network is the process of optimizing a highly non-convex function. Gradient decent methods with random initialization are often inadequate of reaching good local optimums. Although convolutional neural networks are widely applied on computer vision tasks, not enough emphasis has been put on how to choose an effective optimization method as well as an appropriate network architecture. 
+
+Convolutional neural networks based methods mainly work with manually annotated labels or labels generated as the output of other programs of similar purposes. Manual label annotation is time consuming and generated labels are often of a considerable amount of noise. Hence to exploit the utility of unlabeled data is another issue of great concern.
+
+\section{Objectives and Contributions}
+In this paper, we presented a weakly supervised approach for road scene understanding with the aim of addressing above mentioned challenges. In order to avoid the limitations of handcrafted features, convolutional neural networks are has been used as the primary framework for supervised learning. On top of this, we focused on unsupervised learning methods to improve the performance of our approach and at the same time preserve its generality. More specifically, we investigated unsupervised feature learning methods to leverage the usability of unlabeled data. We also studied unsupervised image segmentation and graph denoising methods for the purpose of improving the outcome and running time of the prediction stage.
+
+The major contributions of our study can be summarized as follows. First we introduced a weakly supervised approach for road scene understating, and built a software system accordingly. Second, we compared the effectiveness of two different unsupervised feature extraction methods, namely principal component analysis (PCA) and convolutional auto-encoders, in several aspects with regard to our study. Third, we experimented the merits and flaws of two unsupervised image segmentation as well as a graph denoising methods of in the prediction stage. Forth, we implemented an open source library for convolutional auto-encoders, which we believed to be more efficient and flexible in comparison of other libraries available on the same platform.
+
+%%% Local Variables: 
+%%% mode: latex
+%%% TeX-master: "thesis"
+%%% End: 

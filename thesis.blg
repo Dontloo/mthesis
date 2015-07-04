@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+The top-level auxiliary file: thesis.aux
+The style file: acmnew-xref.bst
+Database file #1: thesis.bib
+Warning--can't use both volume and number fields in bishop2006pattern
+Warning--no number and no volume in Geiger2013IJRR
+Warning--page numbers missing in Geiger2013IJRR
+Warning--empty school in IMM2012-06284
+You've used 21 entries,
+            2719 wiz_defined-function locations,
+            728 strings with 8419 characters,
+and the built_in function-call counts, 15714 in all, are:
+= -- 1223
+> -- 1240
+< -- 7
++ -- 372
+- -- 412
+* -- 1504
+:= -- 2836
+add.period$ -- 90
+call.type$ -- 21
+change.case$ -- 162
+chr.to.int$ -- 21
+cite$ -- 46
+duplicate$ -- 447
+empty$ -- 947
+format.name$ -- 476
+if$ -- 2853
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 2
+newline$ -- 129
+num.names$ -- 210
+pop$ -- 140
+preamble$ -- 1
+purify$ -- 288
+quote$ -- 0
+skip$ -- 402
+stack$ -- 0
+substring$ -- 776
+swap$ -- 150
+text.length$ -- 7
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 400
+warning$ -- 4
+while$ -- 195
+width$ -- 0
+write$ -- 352
+(There were 4 warnings)
